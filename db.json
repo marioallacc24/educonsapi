@@ -8,6 +8,15 @@
         "dan": "utorak",
         "vreme": "13h",
         "prostorija": "a1"
+  },
+    {
+        "id": 2,
+        "godina": 0,
+        "naziv": "test",
+        "profesor": "test",
+        "dan": "utorak",
+        "vreme": "13h",
+        "prostorija": "a1"
 }
   ],
   "profile": {
