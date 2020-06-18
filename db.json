@@ -175,6 +175,38 @@
         "prostorija": "A3"
 }
   ],
+  
+  "obavestenja": [
+    {
+        "id": 1,
+        "slika": "https://educons.edu.rs/wp-content/uploads/2020/06/seminar-3.jpg",
+        "naslov": "Održan seminar Katedre za marketing i komunikacije Fakulteta poslovne ekonomije",
+        "datum": "18.06.2020",
+        "tekst": "U četvrtak 11.6.2020. na Univerzitetu Educons je održan katedralni seminar u organizaciji Katedre za marketing i komunikacije Fakulteta poslovne ekonomije pod nazivom „Upotreba informacionih tehnologija u nastavi: Webquest“. Seminar je držala predmetna nastavnica za Engleski jezik, Gordana Vladisavljević, inače stipendistkinja ambasade SAD na programu E-Teacher Scholarship."
+  },
+    {
+        "id": 2,
+        "slika": "https://educons.edu.rs/wp-content/uploads/2020/06/IMG_2870.jpg",
+        "naslov": "Prezentacija docentkinje Educons Univerziteta osvojila nagradu na regionalnoj međunarodnoj konferenciji ”GEA 2020”",
+        "datum": "04.06.2020",
+        "tekst": "Na prestižnoj regionalnoj medjunarodnoj konferenciji GEA 2020, usmeno izlaganje i rad doc. dr Jelene Ješić, zajedno sa još dvoje mladih istraživača: Vanja Bošković (Crna Gora) mladi istraživač iz oblasti Arhitekture i tim predvođen Draganom Popović među nagrađenim za poster prezentaciju – proglašeni su kao prvonagradjeni među 450 istraživača učesnika GEA međunarodne konferencije upravo zaključene na Univerzitetu Crne Gore."
+},
+    {
+        "id": 3,
+        "slika": "https://educons.edu.rs/wp-content/uploads/2020/06/IMG_2870.jpg",
+        "naslov": "Prezentacija docentkinje Educons Univerziteta osvojila nagradu na regionalnoj međunarodnoj konferenciji ”GEA 2020”",
+        "datum": "04.06.2020",
+        "tekst": "Na prestižnoj regionalnoj medjunarodnoj konferenciji GEA 2020, usmeno izlaganje i rad doc. dr Jelene Ješić, zajedno sa još dvoje mladih istraživača: Vanja Bošković (Crna Gora) mladi istraživač iz oblasti Arhitekture i tim predvođen Draganom Popović među nagrađenim za poster prezentaciju – proglašeni su kao prvonagradjeni među 450 istraživača učesnika GEA međunarodne konferencije upravo zaključene na Univerzitetu Crne Gore."
+},
+    {
+        "id": 4,
+        "slika": "https://educons.edu.rs/wp-content/uploads/2020/06/IMG_2870.jpg",
+        "naslov": "Prezentacija docentkinje Educons Univerziteta osvojila nagradu na regionalnoj međunarodnoj konferenciji ”GEA 2020”",
+        "datum": "04.06.2020",
+        "tekst": "Na prestižnoj regionalnoj medjunarodnoj konferenciji GEA 2020, usmeno izlaganje i rad doc. dr Jelene Ješić, zajedno sa još dvoje mladih istraživača: Vanja Bošković (Crna Gora) mladi istraživač iz oblasti Arhitekture i tim predvođen Draganom Popović među nagrađenim za poster prezentaciju – proglašeni su kao prvonagradjeni među 450 istraživača učesnika GEA međunarodne konferencije upravo zaključene na Univerzitetu Crne Gore."
+}
+  ],
+  
   "profile": {
     "name": "typicode"
   }
