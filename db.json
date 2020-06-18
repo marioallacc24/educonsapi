@@ -1,5 +1,52 @@
 {
-  "posts": [
+  "nastava": [
+    {
+        "id": 1,
+        "godina": 1,
+        "naziv": "Engleski jezik II",
+        "profesor": "prof. Gordana Vladisavljević",
+        "dan": "Ponedeljak",
+        "vreme": "14:00-15:45",
+        "prostorija": "A1"
+  },
+    {
+        "id": 2,
+        "godina": 1,
+        "naziv": "Komunikacije",
+        "profesor": "prof.dr Jelena Vemić Đurković",
+        "dan": "Sreda",
+        "vreme": "12:30-14:45",
+        "prostorija": "40/3"
+},
+    {
+        "id": 3,
+        "godina": 1,
+        "naziv": "Programiranje II",
+        "profesor": "prof.dr Srđan Popov",
+        "dan": "Četvrtak",
+        "vreme": "10:00-11:45",
+        "prostorija": "A1"
+},{
+        "id": 4,
+        "godina": 1,
+        "naziv": "Računarske mreže",
+        "profesor": "prof.dr Predrag Poljak",
+        "dan": "Utorak",
+        "vreme": "11:00-12:45",
+        "prostorija": "26/2"
+},
+    {
+        "id": 5,
+        "godina": 1,
+        "naziv": "Algoritmi i strukture podataka",
+        "profesor": "prof.dr Srđan Popov",
+        "dan": "Četvrtak",
+        "vreme": "14:00-15:45",
+        "prostorija": "17/1"
+}
+  ],
+  
+  "vezbe": [
     {
         "id": 1,
         "godina": 1,
