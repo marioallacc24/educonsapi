@@ -92,6 +92,89 @@
         "prostorija": "26/2"
 }
   ],
+  
+  "ispiti": [
+    {
+        "id": 1,
+        "godina": 1,
+        "naziv": "Prof.Gordana Vladisavljević",
+        "profesor": "asistent",
+        "dan": "15.06.2020",
+        "vreme": "10:00",
+        "prostorija": "A3"
+  },
+    {
+        "id": 2,
+        "godina": 1,
+        "naziv": "Komunikacije",
+        "profesor": "Prof.dr Jelena Vemić Đurković",
+        "dan": "30.06.2020",
+        "vreme": "10:00",
+        "prostorija": "A1"
+},
+    {
+        "id": 3,
+        "godina": 1,
+        "naziv": "Programiranje II",
+        "profesor": "Prof.dr Srđan Popov",
+        "dan": "18.06.2020 ",
+        "vreme": "16:00",
+        "prostorija": "26/2"
+},{
+        "id": 4,
+        "godina": 1,
+        "naziv": "Računarske mreže",
+        "profesor": "Doc.dr Predrag Poljak",
+        "dan": "23.06.2020",
+        "vreme": "12:30",
+        "prostorija": "26/2"
+},
+    {
+        "id": 5,
+        "godina": 1,
+        "naziv": "Algoritmi i strukture podataka",
+        "profesor": "Prof.dr Srđan Popov",
+        "dan": "17.06.2020",
+        "vreme": "16:00",
+        "prostorija": "26/2"
+},
+    {
+        "id": 6,
+        "godina": 1,
+        "naziv": "Programiranje 1",
+        "profesor": "Prof.dr Srđan Popov",
+        "dan": "16.06.2020",
+        "vreme": "16:00",
+        "prostorija": "26/2"
+},
+    {
+        "id": 7,
+        "godina": 1,
+        "naziv": "Engleski jezik 1",
+        "profesor": "Prof.Tatjana Milosavljević",
+        "dan": "01.07.2020",
+        "vreme": "12:00",
+        "prostorija": "A1"
+},
+    {
+        "id": 8,
+        "godina": 1,
+        "naziv": "Osnovi računarstva",
+        "profesor": "Prof.dr Dinu Dragan",
+        "dan": "01.07.2020",
+        "vreme": "12:00",
+        "prostorija": "A1"
+},
+    {
+        "id": 9,
+        "godina": 1,
+        "naziv": "Diskretna matematika",
+        "profesor": "profesor",
+        "dan": "01.07.2020",
+        "vreme": "12:00",
+        "prostorija": "A3"
+}
+  ],
   "profile": {
     "name": "typicode"
   }
