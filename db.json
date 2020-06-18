@@ -1,4 +1,6 @@
 {
+  "posts": [
+    {
         "id": 1,
         "godina": 0,
         "naziv": "test",
@@ -7,3 +9,11 @@
         "vreme": "13h",
         "prostorija": "a1"
 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+
+
+
